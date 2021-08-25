@@ -1,7 +1,31 @@
 
 <img aligh="center" src="header.png"></img>
-<h1 align="left">Hi 👋, I'm Aditya Rawat</h1>
+<h1 align="left">Hi 👋, I'm [Aditya Rawat!]</h1>
 
+<a href="https://www.linkedin.com/in/adityarawat1337/">
+  <img align="left" alt="Adi's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.twitter.com/adityarawat1337/">
+  <img align="left" alt="Adi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Aman Jagdev, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
+
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+ 
+- 👯 I’m looking to collaborate on most of my projects
+- 💻 Especially on [React]
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: rkrawat98766@gmail.com;
+
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarawat1337x&label=Profile%20views&color=0e75b6&style=flat" alt="adityarawat1337x" /> </p>
 
 
