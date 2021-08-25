@@ -2,7 +2,7 @@
 <img aligh="center" src="header.png"></img>
 <h1 align="left">Hi 👋, I'm [Aditya Rawat!]</h1>
 
-<a href="https://www.linkedin.com/in/adityarawat1337/">
+<a href="https://www.linkedin.com/in/adityarawat1337x/">
   <img align="left" alt="Adi's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/adityarawat1337/">
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aman Jagdev, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
+Hi, I'm Aditya , a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
 
 <br/>
 
