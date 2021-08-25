@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya , a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
+Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
 
 <br/>
 
