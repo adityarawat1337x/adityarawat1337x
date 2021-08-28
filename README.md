@@ -15,7 +15,10 @@
 Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
 
 <br/>
-
+ <div align ="center">
+  <strong> I am pursuing B.Tech in CS with specialization in AI and DS. I like to do sketching and painting.</strong>
+</div>
+ <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
