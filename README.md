@@ -26,6 +26,9 @@ Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to
 - 📫 How to reach me: rkrawat98766@gmail.com;
 
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityarawat1337x&show_icons=true&locale=en&layout=compact" alt="adityarawat1337x" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityarawat1337x&show_icons=true&locale=en" alt="adityarawat1337x" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarawat1337x&label=Profile%20views&color=0e75b6&style=flat" alt="adityarawat1337x" /> </p>
 <br/>
 <br/>
