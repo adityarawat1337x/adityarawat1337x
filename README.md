@@ -16,7 +16,7 @@ Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to
 
 
  <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->
   
 **Talking about Personal Stuffs:**
  
@@ -25,7 +25,7 @@ Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rkrawat98766@gmail.com;
 - 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityarawat1337x&show_icons=true&locale=en" alt="adityarawat1337x" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityarawat1337x&show_icons=true&locale=en" alt="adityarawat1337x" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarawat1337x&label=Profile%20views&color=0e75b6&style=flat" alt="adityarawat1337x" /></p>
 <br/>
 <br/>
