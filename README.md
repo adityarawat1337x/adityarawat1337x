@@ -12,8 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently loves to work on MERN Stack, cloud and most of the Web technologies.
-
+**Hi, I'm Aditya Rawat, a Full Stack Developer 🚀 from India, currently working on MERN Stack, cloud and a lot of Web technologies.**
 
  <br/>
  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=adityarawat1337x&show_icons=true&locale=en" alt="adityarawat1337x" /></p>
