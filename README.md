@@ -1,6 +1,6 @@
 
 <!--<img aligh="center" src="header.png"></img> -->
-<h1 align="left">Hi 👋, I'm [Aditya Rawat!</h1>
+<h1 align="left">Holla 👋, I'm Aditya Rawat</h1>
 
 <a href="https://www.linkedin.com/in/adityarawat1337x/">
   <img align="left" alt="Adi's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
